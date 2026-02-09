@@ -1,4 +1,4 @@
-# <div align="center"><img src="profile/images/logo.png" alt="Antique Analyzer Logo" width="300"/></div>
+# <div align="center"><img src="images/logo.png" alt="Antique Analyzer Logo" width="300"/></div>
 
 <div align="center">
 
@@ -88,4 +88,5 @@ We are a team of Master's students passionate about AI and Data Science.
 ---
 <div align="center">
   <sub>Designed for <b>Projekt Zespołowy</b> at WSIiZ Rzeszów, 2025/2026.</sub>
+
 </div>

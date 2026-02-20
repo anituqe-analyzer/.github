@@ -72,6 +72,17 @@ Here are the open-source components of our platform:
 | **[Frontend](https://github.com/anituqe-analyzer/frontend)** | The user interface for analyzing auctions and voting. | React, TypeScript |
 | **[Web Scraper](https://github.com/anituqe-analyzer/web-scraper)** | Tools for fetching training data and live auction info. | Python, Selenium, Apify |
 
+## 🎥 Live Demo
+
+Watch a short video demonstrating how the application works:
+[Watch the video](https://youtu.be/NW1DT6g-2LU)
+
+
+## 📄 Documentation
+
+Complete project documentation (available in Polish):
+[View the Full Project Documentation (PDF)](https://github.com/anituqe-analyzer/.github/blob/main/Projekt_zespo%C5%82owy_dokumentacja.pdf)
+
 ## 👨‍💻 Meet the Team
 
 We are a team of Master's students passionate about AI and Data Science.

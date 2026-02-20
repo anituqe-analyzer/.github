@@ -6,7 +6,7 @@
 
 **Platform for verifying the authenticity of antique auctions using Multimodal AI**
 
-[About](#-about-the-project) • [Key Features](#-key-features) • [Architecture](#%EF%B8%8F-system-architecture) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Repositories](#-repositories) • [Team](#%E2%80%8D-meet-the-team)
+[About](#-about-the-project) • [Key Features](#-key-features) • [Architecture](#%EF%B8%8F-system-architecture) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Repositories](#-repositories) • [Video](#-live-demo) • [Documentation](#-documentation) • [Team](#%E2%80%8D-meet-the-team)
 
 </div>
 
@@ -101,3 +101,4 @@ We are a team of Master's students passionate about AI and Data Science.
   <sub>Designed for <b>Projekt Zespołowy</b> at WSIiZ Rzeszów, 2025/2026.</sub>
 
 </div>
+
